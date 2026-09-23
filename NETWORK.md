@@ -1,10 +1,17 @@
-# Zion AI Incident Responder
+# Zion AI Incident Responder — Zion App Network
 
-AI-powered incident response automation.
+AI-powered incident response automation — auto-detect, classify, escalate and resolve. Part of the [Zion Tech Group](https://ziontechgroup.com) app network.
 
-## Network
-- 📚 Master catalog: [zion-app-network/CATALOG.md](https://github.com/Zion-support/zion-app-network/blob/main/CATALOG.md)
-- Hubs: [zion-app-network](https://github.com/Zion-support/zion-app-network) · [zion-apps-hub](https://github.com/Zion-support/zion-apps-hub)
-- Related: [zion-ai-incident-commander](https://github.com/Zion-support/zion-ai-incident-commander) · [zion-ai-incident-runbook](https://github.com/Zion-support/zion-ai-incident-runbook) · [incident-runbook](https://github.com/Zion-support/incident-runbook) · [zion-ai-postmortem](https://github.com/Zion-support/zion-ai-postmortem) · [zion-ai-status-comms](https://github.com/Zion-support/zion-ai-status-comms)
+- 🔗 Live app: [https://ziontechgroup.com/zion-ai-incident-responder/](https://ziontechgroup.com/zion-ai-incident-responder/)
+- 🏠 Category: [Dev & Ops Tools](https://github.com/Zion-support/zion-network/blob/main/network/dev-ops-tools.md)
 
-*Zion Tech Group · [ziontechgroup.com](https://ziontechgroup.com)*
+## Related apps in the network
+
+- [Zion AI Incident Commander](https://github.com/Zion-support/zion-ai-incident-commander) — incident response orchestration
+- [Zion AI Incident Runbook](https://github.com/Zion-support/zion-ai-incident-runbook) — structured incident runbooks
+- [Incident Runbook](https://github.com/Zion-support/incident-runbook) — turn incidents into executable runbooks
+- [Zion AI Chaos Engineer](https://github.com/Zion-support/zion-ai-chaos-engineer) — automated resilience experiments
+- [Zion AI Status Comms](https://github.com/Zion-support/zion-ai-status-comms) — AI-drafted status updates
+
+## Part of the Zion App Network
+🌐 [Network Index](https://github.com/Zion-support/zion-network/blob/main/APPS_NETWORK.md) · [Status](https://zion-support.github.io/zion-status/) · [Plans](https://zion-support.github.io/zion-plans/) · [Portal](https://zion-support.github.io/zion-portal/)
